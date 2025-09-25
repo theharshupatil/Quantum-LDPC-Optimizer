@@ -1,5 +1,5 @@
 # weAI-AIDAO
-## USE INFO 
+## USEFUL INFO 
 ## Data
 
 - [OpenNeuro – Open source site for fMRI data](https://openneuro.org)
